@@ -181,12 +181,12 @@ Advanced filtering and search
 Mobile application integration
 Real-time notifications
 
-## 👨‍💻 Author
+## 📌 Author
 
 ## A. K. M. Masudur Rahman (Gaurab)
 #### Department of Computer Science and Engineering (CSE)
 #### Bangladesh Army University of Science and Technology (BAUST), Saidpur
-### Email: akmmasudurrahmangaurab@gmail.com
+### 📧 Email: akmmasudurrahmangaurab@gmail.com
 
 ## 📌 Conclusion
 
