@@ -169,8 +169,11 @@ php artisan serve
 ## 📁 Project Structure
 
 app/ → Controllers, Services, Repositories, Models
+
 resources/views/ → Blade templates
+
 routes/ → Application routes
+
 database/ → Migrations
 
 ## 🔮 Future Improvements
