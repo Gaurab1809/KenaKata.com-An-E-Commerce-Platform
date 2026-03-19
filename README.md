@@ -168,13 +168,10 @@ php artisan serve
 ```
 ## 📁 Project Structure
 
-app/ → Controllers, Services, Repositories, Models
-
-resources/views/ → Blade templates
-
-routes/ → Application routes
-
-database/ → Migrations
+- app/ → Controllers, Services, Repositories, Models
+- resources/views/ → Blade templates, view designs
+- routes/ → Application routes
+- database/ → Migrations
 
 ## 🔮 Future Improvements
 
@@ -187,6 +184,8 @@ Real-time notifications
 ## 👨‍💻 Author
 
 ## A. K. M. Masudur Rahman (Gaurab)
+#### Department of Computer Science and Engineering (CSE)
+#### Bangladesh Army University of Science and Technology (BAUST), Saidpur
 ### Email: akmmasudurrahmangaurab@gmail.com
 
 ## 📌 Conclusion
