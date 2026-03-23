@@ -1,6 +1,6 @@
 <!-- Logo on top -->
 <p align="center">
-  <img src="KenaKata_Logo.png" alt="KenaKata Logo" width="600"/>
+  <img src="KenaKata_logo.png" alt="KenaKata Logo" width="600"/>
 </p>
 
 <!-- Title centered and purple -->
